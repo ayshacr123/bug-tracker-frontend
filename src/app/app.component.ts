@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bug-app-front-end';
+  sideNavStatus:boolean=false;
+
 }

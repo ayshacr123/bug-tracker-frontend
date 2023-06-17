@@ -1,0 +1,159 @@
+.card {
+    /* transition: transform 0.3s ease; */
+    width: 4in;
+    height: 4in;
+  }
+  .edit-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 1;
+    color:aliceblue;
+    background-color:  black;
+  }
+  .edit-button:hover{
+    background-color: blue;
+    color:aliceblue;
+  }
+  
+  .card-img-top {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .card1{
+    margin-left: 100px;
+  }
+  .row {
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .my-4 {
+    margin-top: 2rem; /* Adjust the top margin as needed */
+    margin-bottom: 0; /* Remove bottom margin */
+  }
+
+  /* Adjust the modal background overlay */
+  .modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5); /* Dim the background */
+  }
+
+  /* Center the modal vertically */
+  .modal-dialog {
+    display: flex;
+    align-items: center;
+    min-height: calc(100% - 1rem);
+  }
+
+  /* Add some padding to the modal content */
+  .modal-content {
+    padding: 20px;
+  }
+
+  /* Adjust the modal title */
+  .modal-title {
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+/* 
+  .form-group label {
+    font-weight: bold;
+  }
+
+  .form-control {
+    margin-bottom: 10px;
+  }
+
+  
+  .modal-footer {
+    justify-content: center;
+  } */
+
+  
+  /* .modal-footer .btn-default {
+    background-color: #007bff;
+    color: #fff;
+  }
+
+  .modal-footer .btn-default:hover {
+    background-color: #0056b3;
+    color: #fff;
+  } */
+
+
+  .modal-body {
+    padding: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .form-control {
+    width: 100%;
+  }
+  
+  .modal-footer {
+    margin-top: 10px;
+  }
+  
+  .btn {
+    border-radius: 0;
+  }
+  
+  .btn-primary {
+    background-color: #161718;
+    color: white;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    color: white;
+  }
+  
+
+  a{
+    color: black;
+  }
+  a:hover{
+    color: blue;
+
+  }
+  /* .card:hover {
+    transform: scale(1.1);
+  }
+   */
+  
+/*   
+  .project-id {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .project-name {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .manager {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .description {
+    margin-top: 10px;
+    font-size: 14px;
+  } */
+
+ 
+  
+  
+  
+
+  
+  
+  
+  
